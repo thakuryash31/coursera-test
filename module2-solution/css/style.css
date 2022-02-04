@@ -1,11 +1,6 @@
-
-
-.row {
-
-	margin-bottom: 15px;
-}
-.row > div {
-border: 2px solid red;
-background-color: grey;
-
+.style {
+				
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+	background-color: grey;
 }
