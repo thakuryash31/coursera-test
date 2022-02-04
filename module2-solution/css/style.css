@@ -10,13 +10,14 @@ h2 {
 
 	font-family: Arial, Helvetica, sans-serif;
 	color: black;
-	font-size: 14px;
+	font-size: 20px;
 	background-color: pink;
 }
 
 #box {
 				
 	background-color:black;
+	border: 3px solid black;
 }
 
 #content {
