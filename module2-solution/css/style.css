@@ -14,23 +14,28 @@ h2 {
 	background-color: pink;
 }
 
+* {
+	box-sizing: border-box;
+}
+
 #p1 {
 				
-	width: 100px;
+	width: 500px;
 	border: 1px solid black;
 	float: left;
 }
 
 #p2 {
-	width: 100px;			
+	width: 500px;			
 	border: 1px solid black;
+	float: left
 	
 }
 
 #p3 {
-	width: 100px;			
+	width: 500px;			
 	border: 1px solid black;
-	float: right;
+	float: left
 }
 
 div {
