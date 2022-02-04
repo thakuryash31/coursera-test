@@ -23,22 +23,21 @@ h2 {
 	width: 500px;
 	border: 1px solid black;
 	float: left;
+	background-color: gray;
 }
 
 #p2 {
 	width: 500px;			
 	border: 1px solid black;
-	float: left
+	float: left;
+	background-color: gray;
 	
 }
 
 #p3 {
 	width: 500px;			
 	border: 1px solid black;
-	float: left
-}
+	float: left;
+	background-color: gray;
 
-div {
-				
-	background-color: grey;
 }
